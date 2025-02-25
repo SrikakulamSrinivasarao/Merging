@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sign Up</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            background: url('/static/background.jpg') no-repeat center center fixed;
+            background-size: cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: white;
+        }
+
+        .wrapper {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 800px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            backdrop-filter: blur(10px);
+        }
+
+        .welcome-section {
+            width: 50%;
+            padding: 20px;
+        }
+
+        .welcome-section h1 {
+            font-size: 28px;
+            font-weight: bold;
+            color: rgb(232, 236, 168);
+        }
+
+        .welcome-section img {
+            width: 85%;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .signup-box {
+            width: 50%;
+            background: rgba(255, 255, 255, 0.15);
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+            backdrop-filter: blur(15px);
+            text-align: center;
+        }
+
+        h2 {
+            margin-bottom: 20px;
+            font-size: 24px;
+            color: rgb(8, 8, 8);
+        }
+
+        .message {
+            background: rgba(255, 0, 0, 0.2);
+            color: #ff4b2b;
+            padding: 8px;
+            border-radius: 5px;
+            margin-bottom: 15px;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 12px;
+            margin: 10px 0;
+            border: none;
+            border-radius: 5px;
+            font-size: 14px;
+            outline: none;
+        }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            margin-top: 15px;
+            background: linear-gradient(45deg, #ff416c, #ff4b2b);
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            color: white;
+            cursor: pointer;
+            transition: 0.3s ease;
+        }
+
+        button:hover {
+            background: linear-gradient(45deg, #ff4b2b, #ff416c);
+            color:rgb(7, 7, 7);
+        }
+
+        p {
+            margin-top: 10px;
+            font-size: 20px;
+            color: rgb(7, 7, 7);
+        }
+
+        a {
+            color: rgb(9, 9, 9);
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <!-- Welcome Section with Image -->
+        <div class="welcome-section">
+            <h1>Join Us!</h1>
+            <img src="/static/visualization.jpg" alt="Visualization Image">
+        </div>
+
+        <!-- Sign Up Box -->
+        <div class="signup-box">
+            <h2>Sign Up</h2>
+
+            {% if message %}
+                <p class="message">{{ message }}</p>
+            {% endif %}
+
+            <form action="/signup" method="post">
+                <input type="text" id="username" name="username" placeholder="Username" required>
+                <input type="password" id="password" name="password" placeholder="Password" required>
+                <input type="email" id="email" name="email" placeholder="Email" required>
+                <input type="tel" id="phone" name="phone" placeholder="Phone Number" required>
+                <select id="gender" name="gender" required>
+                    <option value="">Select Gender</option>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                    <option value="Other">Other</option>
+                </select>
+                <button type="submit">Sign Up</button>
+            </form>
+
+            <p>Already have an account? <a href="/">Log in</a></p>
+        </div>
+    </div>
+</body>
+</html>

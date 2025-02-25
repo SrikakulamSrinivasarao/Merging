@@ -1,0 +1,3802 @@
+[
+    {
+        "Student_Names": "Sanya Pandey",
+        "Phone_No.": 9319184778,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 1,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 42,
+            "Physics": 85,
+            "Chemistry": 43
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BT",
+        "ListofCourses": "B.E/B.Tech in Biotechnology",
+        "RatingOfCourses": 4.0
+    },
+    {
+        "Student_Names": "Sanya Srivastav",
+        "Phone_No.": 9298629872,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 7,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 34,
+            "Physics": 37,
+            "Chemistry": 10
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSECS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Cyber Security)",
+        "RatingOfCourses": 4.4
+    },
+    {
+        "Student_Names": "Sanya Singh",
+        "Phone_No.": 9845435021,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 28,
+            "Physics": 15,
+            "Chemistry": 72
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSR",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Robotics)",
+        "RatingOfCourses": 3.2
+    },
+    {
+        "Student_Names": "Kabir Singh",
+        "Phone_No.": 9575276094,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 10,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 62,
+            "Physics": 53,
+            "Chemistry": 57
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "AEE",
+        "ListofCourses": "B.E/B.Tech in Aeronautical Engineering",
+        "RatingOfCourses": 2.3
+    },
+    {
+        "Student_Names": "Vivaan Sharma",
+        "Phone_No.": 9837692633,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 10,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 91,
+            "Physics": 72,
+            "Chemistry": 52
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: AEE",
+        "CourseCode": "AEE",
+        "ListofCourses": "B.E/B.Tech in Aeronautical Engineering",
+        "RatingOfCourses": 3.5
+    },
+    {
+        "Student_Names": "Vivaan Yadav",
+        "Phone_No.": 9927019293,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 2,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 98,
+            "Physics": 68,
+            "Chemistry": 63
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: EEE",
+        "CourseCode": "EEE",
+        "ListofCourses": "B.E/B.Tech in Electrical and Electronics Engineering",
+        "RatingOfCourses": 3.0
+    },
+    {
+        "Student_Names": "Rohan Tiwari",
+        "Phone_No.": 9353216186,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 3,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 76,
+            "Physics": 14,
+            "Chemistry": 67
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "AEE",
+        "ListofCourses": "B.E/B.Tech in Aeronautical Engineering",
+        "RatingOfCourses": 4.8
+    },
+    {
+        "Student_Names": "Sanya Tiwari",
+        "Phone_No.": 9412030102,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 2,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 97,
+            "Physics": 81,
+            "Chemistry": 72
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: EEE",
+        "CourseCode": "EEE",
+        "ListofCourses": "B.E/B.Tech in Electrical and Electronics Engineering",
+        "RatingOfCourses": 3.1
+    },
+    {
+        "Student_Names": "Kabir Srivastav",
+        "Phone_No.": 9208047973,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 9,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 100,
+            "Physics": 61,
+            "Chemistry": 92
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: CSAI",
+        "CourseCode": "CSAI",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (AI)",
+        "RatingOfCourses": 2.7
+    },
+    {
+        "Student_Names": "Priya Chauhan",
+        "Phone_No.": 9207385937,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 84,
+            "Physics": 15,
+            "Chemistry": 100
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSIOT",
+        "CourseCode": "CSIOT",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (IOT)",
+        "RatingOfCourses": 4.1
+    },
+    {
+        "Student_Names": "Aditya Sharma",
+        "Phone_No.": 9505346961,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 3,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 45,
+            "Physics": 79,
+            "Chemistry": 21
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BSP",
+        "ListofCourses": "B.Sc in Physics",
+        "RatingOfCourses": 2.1
+    },
+    {
+        "Student_Names": "Priya Srivastav",
+        "Phone_No.": 9686514071,
+        "Month": "February",
+        "Gender": "Male",
+        "Study_Hours": 4,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 19,
+            "Physics": 55,
+            "Chemistry": 100
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSR",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Robotics)",
+        "RatingOfCourses": 3.4
+    },
+    {
+        "Student_Names": "Vivaan Thakur",
+        "Phone_No.": 9363886348,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 3,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 33,
+            "Physics": 42,
+            "Chemistry": 19
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CHE",
+        "ListofCourses": "B.E/B.Tech in Chemical Engineering",
+        "RatingOfCourses": 4.3
+    },
+    {
+        "Student_Names": "Vivaan Thakur",
+        "Phone_No.": 9138236486,
+        "Month": "April",
+        "Gender": "Female",
+        "Study_Hours": 9,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 47,
+            "Physics": 87,
+            "Chemistry": 27
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "AEE",
+        "ListofCourses": "B.E/B.Tech in Aeronautical Engineering",
+        "RatingOfCourses": 2.9
+    },
+    {
+        "Student_Names": "Aditya Thakur",
+        "Phone_No.": 9104156024,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 22,
+            "Physics": 58,
+            "Chemistry": 36
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSAI",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (AI)",
+        "RatingOfCourses": 4.0
+    },
+    {
+        "Student_Names": "Sai Pandey",
+        "Phone_No.": 9125680616,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 9,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 69,
+            "Physics": 39,
+            "Chemistry": 40
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BSP",
+        "ListofCourses": "B.Sc in Physics",
+        "RatingOfCourses": 3.7
+    },
+    {
+        "Student_Names": "Ishita Pandey",
+        "Phone_No.": 9653424761,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 9,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 86,
+            "Physics": 53,
+            "Chemistry": 43
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: BES",
+        "CourseCode": "BES",
+        "ListofCourses": "B.Sc in Environmental Science",
+        "RatingOfCourses": 4.9
+    },
+    {
+        "Student_Names": "Kabir Chauhan",
+        "Phone_No.": 9938340909,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 2,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 41,
+            "Physics": 85,
+            "Chemistry": 44
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BSP",
+        "ListofCourses": "B.Sc in Physics",
+        "RatingOfCourses": 2.9
+    },
+    {
+        "Student_Names": "Ishita Singh",
+        "Phone_No.": 9587897007,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 2,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 77,
+            "Physics": 42,
+            "Chemistry": 14
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "FPT",
+        "ListofCourses": "B.E/B.Tech in Food Processing and Technology",
+        "RatingOfCourses": 4.0
+    },
+    {
+        "Student_Names": "Sai Sharma",
+        "Phone_No.": 9054681319,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 2,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 60,
+            "Physics": 70,
+            "Chemistry": 44
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSAI",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (AI)",
+        "RatingOfCourses": 3.4
+    },
+    {
+        "Student_Names": "Vivaan Srivastav",
+        "Phone_No.": 9901954424,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 4,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 77,
+            "Physics": 78,
+            "Chemistry": 16
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BT",
+        "ListofCourses": "B.E/B.Tech in Biotechnology",
+        "RatingOfCourses": 2.5
+    },
+    {
+        "Student_Names": "Ishita Pandey",
+        "Phone_No.": 9931007502,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 1,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 45,
+            "Physics": 14,
+            "Chemistry": 72
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "EEE",
+        "ListofCourses": "B.E/B.Tech in Electrical and Electronics Engineering",
+        "RatingOfCourses": 4.0
+    },
+    {
+        "Student_Names": "Sanya Singh",
+        "Phone_No.": 9296256584,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 9,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 23,
+            "Physics": 82,
+            "Chemistry": 71
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "ECE",
+        "ListofCourses": "B.E/B.Tech in Electronics and Communication Engineering",
+        "RatingOfCourses": 2.6
+    },
+    {
+        "Student_Names": "Neha Tiwari",
+        "Phone_No.": 9609203986,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 3,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 90,
+            "Physics": 12,
+            "Chemistry": 17
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CE",
+        "ListofCourses": "B.E/B.Tech in Civil Engineering",
+        "RatingOfCourses": 3.2
+    },
+    {
+        "Student_Names": "Neha Verma",
+        "Phone_No.": 9771160100,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 18,
+            "Physics": 15,
+            "Chemistry": 60
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CHE",
+        "ListofCourses": "B.E/B.Tech in Chemical Engineering",
+        "RatingOfCourses": 2.8
+    },
+    {
+        "Student_Names": "Rohan Pandey",
+        "Phone_No.": 9936800589,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 1,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 87,
+            "Physics": 15,
+            "Chemistry": 34
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSE",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering",
+        "RatingOfCourses": 3.7
+    },
+    {
+        "Student_Names": "Kabir Patel",
+        "Phone_No.": 9394771168,
+        "Month": "February",
+        "Gender": "Male",
+        "Study_Hours": 7,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 56,
+            "Physics": 11,
+            "Chemistry": 34
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "FPT",
+        "ListofCourses": "B.E/B.Tech in Food Processing and Technology",
+        "RatingOfCourses": 5.0
+    },
+    {
+        "Student_Names": "Aarav Srivastav",
+        "Phone_No.": 9261207910,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 9,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 44,
+            "Physics": 98,
+            "Chemistry": 42
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CE",
+        "CourseCode": "CE",
+        "ListofCourses": "B.E/B.Tech in Civil Engineering",
+        "RatingOfCourses": 4.8
+    },
+    {
+        "Student_Names": "Sanya Verma",
+        "Phone_No.": 9154713590,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 9,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 58,
+            "Physics": 12,
+            "Chemistry": 18
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BSP",
+        "ListofCourses": "B.Sc in Physics",
+        "RatingOfCourses": 2.4
+    },
+    {
+        "Student_Names": "Rohan Sharma",
+        "Phone_No.": 9254414053,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 2,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 19,
+            "Physics": 46,
+            "Chemistry": 58
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CHE",
+        "ListofCourses": "B.E/B.Tech in Chemical Engineering",
+        "RatingOfCourses": 3.4
+    },
+    {
+        "Student_Names": "Priya Sharma",
+        "Phone_No.": 9777721045,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 19,
+            "Physics": 51,
+            "Chemistry": 61
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSDS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Data Science)",
+        "RatingOfCourses": 2.2
+    },
+    {
+        "Student_Names": "Aditya Thakur",
+        "Phone_No.": 9098260716,
+        "Month": "February",
+        "Gender": "Male",
+        "Study_Hours": 8,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 11,
+            "Physics": 60,
+            "Chemistry": 81
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BSC",
+        "ListofCourses": "B.Sc in Chemistry",
+        "RatingOfCourses": 4.7
+    },
+    {
+        "Student_Names": "Rohan Srivastav",
+        "Phone_No.": 9215480246,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 1,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 11,
+            "Physics": 18,
+            "Chemistry": 19
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "ME",
+        "ListofCourses": "B.E/B.Tech in Mechanical Engineering",
+        "RatingOfCourses": 2.8
+    },
+    {
+        "Student_Names": "Ishita Pandey",
+        "Phone_No.": 9856632193,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 6,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 50,
+            "Physics": 17,
+            "Chemistry": 19
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSECS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Cyber Security)",
+        "RatingOfCourses": 4.5
+    },
+    {
+        "Student_Names": "Sanya Sharma",
+        "Phone_No.": 9739716571,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 2,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 22,
+            "Physics": 72,
+            "Chemistry": 62
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BT",
+        "ListofCourses": "B.E/B.Tech in Biotechnology",
+        "RatingOfCourses": 3.4
+    },
+    {
+        "Student_Names": "Priya Chauhan",
+        "Phone_No.": 9565159458,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 6,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 18,
+            "Physics": 92,
+            "Chemistry": 85
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSDS",
+        "CourseCode": "CSDS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Data Science)",
+        "RatingOfCourses": 4.2
+    },
+    {
+        "Student_Names": "Kabir Srivastav",
+        "Phone_No.": 9880728420,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 9,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 13,
+            "Physics": 35,
+            "Chemistry": 75
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "ME",
+        "ListofCourses": "B.E/B.Tech in Mechanical Engineering",
+        "RatingOfCourses": 2.4
+    },
+    {
+        "Student_Names": "Ishita Sharma",
+        "Phone_No.": 9662365580,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 7,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 73,
+            "Physics": 71,
+            "Chemistry": 67
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: FPT",
+        "CourseCode": "FPT",
+        "ListofCourses": "B.E/B.Tech in Food Processing and Technology",
+        "RatingOfCourses": 2.3
+    },
+    {
+        "Student_Names": "Vivaan Pandey",
+        "Phone_No.": 9725502702,
+        "Month": "April",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 38,
+            "Physics": 50,
+            "Chemistry": 73
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "ECE",
+        "ListofCourses": "B.E/B.Tech in Electronics and Communication Engineering",
+        "RatingOfCourses": 4.7
+    },
+    {
+        "Student_Names": "Sanya Sharma",
+        "Phone_No.": 9719918341,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 3,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 63,
+            "Physics": 38,
+            "Chemistry": 78
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSECS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Cyber Security)",
+        "RatingOfCourses": 3.6
+    },
+    {
+        "Student_Names": "Sanya Verma",
+        "Phone_No.": 9826032430,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 3,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 84,
+            "Physics": 58,
+            "Chemistry": 90
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: CE",
+        "CourseCode": "CE",
+        "ListofCourses": "B.E/B.Tech in Civil Engineering",
+        "RatingOfCourses": 3.0
+    },
+    {
+        "Student_Names": "Ishita Yadav",
+        "Phone_No.": 9761292496,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 9,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 21,
+            "Physics": 82,
+            "Chemistry": 82
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSR",
+        "CourseCode": "CSR",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Robotics)",
+        "RatingOfCourses": 2.1
+    },
+    {
+        "Student_Names": "Kabir Tiwari",
+        "Phone_No.": 9107035515,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 9,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 58,
+            "Physics": 34,
+            "Chemistry": 51
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "ECE",
+        "ListofCourses": "B.E/B.Tech in Electronics and Communication Engineering",
+        "RatingOfCourses": 3.6
+    },
+    {
+        "Student_Names": "Aarav Srivastav",
+        "Phone_No.": 9608189431,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 3,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 57,
+            "Physics": 10,
+            "Chemistry": 89
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSDS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Data Science)",
+        "RatingOfCourses": 2.2
+    },
+    {
+        "Student_Names": "Priya Pandey",
+        "Phone_No.": 9975125324,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 9,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 35,
+            "Physics": 31,
+            "Chemistry": 29
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "ME",
+        "ListofCourses": "B.E/B.Tech in Mechanical Engineering",
+        "RatingOfCourses": 3.2
+    },
+    {
+        "Student_Names": "Priya Verma",
+        "Phone_No.": 9462069298,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 5,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 36,
+            "Physics": 39,
+            "Chemistry": 77
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "AEE",
+        "ListofCourses": "B.E/B.Tech in Aeronautical Engineering",
+        "RatingOfCourses": 2.2
+    },
+    {
+        "Student_Names": "Neha Chauhan",
+        "Phone_No.": 9166217579,
+        "Month": "February",
+        "Gender": "Male",
+        "Study_Hours": 10,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 26,
+            "Physics": 42,
+            "Chemistry": 19
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "PE",
+        "ListofCourses": "B.E/B.Tech in Petroleum Engineering",
+        "RatingOfCourses": 4.2
+    },
+    {
+        "Student_Names": "Kabir Tiwari",
+        "Phone_No.": 9258994206,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 7,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 20,
+            "Physics": 84,
+            "Chemistry": 35
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "FPT",
+        "ListofCourses": "B.E/B.Tech in Food Processing and Technology",
+        "RatingOfCourses": 3.5
+    },
+    {
+        "Student_Names": "Priya Yadav",
+        "Phone_No.": 9648577519,
+        "Month": "April",
+        "Gender": "Female",
+        "Study_Hours": 4,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 83,
+            "Physics": 33,
+            "Chemistry": 94
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: AEE",
+        "CourseCode": "AEE",
+        "ListofCourses": "B.E/B.Tech in Aeronautical Engineering",
+        "RatingOfCourses": 2.3
+    },
+    {
+        "Student_Names": "Priya Sharma",
+        "Phone_No.": 9751644981,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 4,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 85,
+            "Physics": 91,
+            "Chemistry": 89
+        },
+        "Grade": "A",
+        "Comment": "Very Good Achievement",
+        "Course_Recommendation": "Top courses: CSIOT",
+        "CourseCode": "CSIOT",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (IOT)",
+        "RatingOfCourses": 3.4
+    },
+    {
+        "Student_Names": "Kabir Patel",
+        "Phone_No.": 9295593638,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 7,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 38,
+            "Physics": 36,
+            "Chemistry": 95
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "ECE",
+        "ListofCourses": "B.E/B.Tech in Electronics and Communication Engineering",
+        "RatingOfCourses": 3.3
+    },
+    {
+        "Student_Names": "Priya Srivastav",
+        "Phone_No.": 9182604340,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 5,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 79,
+            "Physics": 39,
+            "Chemistry": 62
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: ME",
+        "CourseCode": "ME",
+        "ListofCourses": "B.E/B.Tech in Mechanical Engineering",
+        "RatingOfCourses": 3.3
+    },
+    {
+        "Student_Names": "Sai Pandey",
+        "Phone_No.": 9763053099,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 6,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 64,
+            "Physics": 22,
+            "Chemistry": 67
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSECS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Cyber Security)",
+        "RatingOfCourses": 2.1
+    },
+    {
+        "Student_Names": "Ishita Verma",
+        "Phone_No.": 9288759756,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 7,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 93,
+            "Physics": 94,
+            "Chemistry": 14
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: FPT",
+        "CourseCode": "FPT",
+        "ListofCourses": "B.E/B.Tech in Food Processing and Technology",
+        "RatingOfCourses": 2.7
+    },
+    {
+        "Student_Names": "Sanya Yadav",
+        "Phone_No.": 9143512077,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 1,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 92,
+            "Physics": 46,
+            "Chemistry": 85
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: BT",
+        "CourseCode": "BT",
+        "ListofCourses": "B.E/B.Tech in Biotechnology",
+        "RatingOfCourses": 4.7
+    },
+    {
+        "Student_Names": "Kabir Thakur",
+        "Phone_No.": 9419418075,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 4,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 41,
+            "Physics": 77,
+            "Chemistry": 100
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: BSC",
+        "CourseCode": "BSC",
+        "ListofCourses": "B.Sc in Chemistry",
+        "RatingOfCourses": 4.8
+    },
+    {
+        "Student_Names": "Aditya Sharma",
+        "Phone_No.": 9832060570,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 7,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 100,
+            "Physics": 84,
+            "Chemistry": 20
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: BSP",
+        "CourseCode": "BSP",
+        "ListofCourses": "B.Sc in Physics",
+        "RatingOfCourses": 3.9
+    },
+    {
+        "Student_Names": "Sai Sharma",
+        "Phone_No.": 9459822955,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 4,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 93,
+            "Physics": 12,
+            "Chemistry": 92
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSAI",
+        "CourseCode": "CSAI",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (AI)",
+        "RatingOfCourses": 3.7
+    },
+    {
+        "Student_Names": "Sanya Srivastav",
+        "Phone_No.": 9609062478,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 9,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 21,
+            "Physics": 54,
+            "Chemistry": 61
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "ECE",
+        "ListofCourses": "B.E/B.Tech in Electronics and Communication Engineering",
+        "RatingOfCourses": 2.9
+    },
+    {
+        "Student_Names": "Vivaan Chauhan",
+        "Phone_No.": 9907444980,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 5,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 86,
+            "Physics": 33,
+            "Chemistry": 57
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSECS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Cyber Security)",
+        "RatingOfCourses": 4.8
+    },
+    {
+        "Student_Names": "Aditya Srivastav",
+        "Phone_No.": 9532127344,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 3,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 62,
+            "Physics": 36,
+            "Chemistry": 68
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "AEE",
+        "ListofCourses": "B.E/B.Tech in Aeronautical Engineering",
+        "RatingOfCourses": 2.0
+    },
+    {
+        "Student_Names": "Sanya Sharma",
+        "Phone_No.": 9757061417,
+        "Month": "February",
+        "Gender": "Male",
+        "Study_Hours": 7,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 19,
+            "Physics": 49,
+            "Chemistry": 43
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "EEE",
+        "ListofCourses": "B.E/B.Tech in Electrical and Electronics Engineering",
+        "RatingOfCourses": 4.6
+    },
+    {
+        "Student_Names": "Aditya Tiwari",
+        "Phone_No.": 9335371293,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 97,
+            "Physics": 86,
+            "Chemistry": 18
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSR",
+        "CourseCode": "CSR",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Robotics)",
+        "RatingOfCourses": 3.5
+    },
+    {
+        "Student_Names": "Ishita Chauhan",
+        "Phone_No.": 9026272962,
+        "Month": "April",
+        "Gender": "Female",
+        "Study_Hours": 4,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 60,
+            "Physics": 90,
+            "Chemistry": 98
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: FPT",
+        "CourseCode": "FPT",
+        "ListofCourses": "B.E/B.Tech in Food Processing and Technology",
+        "RatingOfCourses": 5.0
+    },
+    {
+        "Student_Names": "Sai Srivastav",
+        "Phone_No.": 9189611673,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 9,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 33,
+            "Physics": 99,
+            "Chemistry": 40
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BT",
+        "ListofCourses": "B.E/B.Tech in Biotechnology",
+        "RatingOfCourses": 2.3
+    },
+    {
+        "Student_Names": "Aditya Patel",
+        "Phone_No.": 9893898558,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 1,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 67,
+            "Physics": 95,
+            "Chemistry": 74
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: PE",
+        "CourseCode": "PE",
+        "ListofCourses": "B.E/B.Tech in Petroleum Engineering",
+        "RatingOfCourses": 4.8
+    },
+    {
+        "Student_Names": "Neha Patel",
+        "Phone_No.": 9815845954,
+        "Month": "February",
+        "Gender": "Male",
+        "Study_Hours": 6,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 14,
+            "Physics": 84,
+            "Chemistry": 95
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSIOT",
+        "CourseCode": "CSIOT",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (IOT)",
+        "RatingOfCourses": 2.4
+    },
+    {
+        "Student_Names": "Kabir Pandey",
+        "Phone_No.": 9510059009,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 6,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 19,
+            "Physics": 66,
+            "Chemistry": 61
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CHE",
+        "ListofCourses": "B.E/B.Tech in Chemical Engineering",
+        "RatingOfCourses": 4.8
+    },
+    {
+        "Student_Names": "Vivaan Chauhan",
+        "Phone_No.": 9683903982,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 3,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 67,
+            "Physics": 23,
+            "Chemistry": 44
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "ME",
+        "ListofCourses": "B.E/B.Tech in Mechanical Engineering",
+        "RatingOfCourses": 4.1
+    },
+    {
+        "Student_Names": "Neha Sharma",
+        "Phone_No.": 9040634940,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 2,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 95,
+            "Physics": 55,
+            "Chemistry": 48
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: PE",
+        "CourseCode": "PE",
+        "ListofCourses": "B.E/B.Tech in Petroleum Engineering",
+        "RatingOfCourses": 4.9
+    },
+    {
+        "Student_Names": "Rohan Srivastav",
+        "Phone_No.": 9198919199,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 2,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 14,
+            "Physics": 49,
+            "Chemistry": 97
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSDS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Data Science)",
+        "RatingOfCourses": 3.7
+    },
+    {
+        "Student_Names": "Vivaan Tiwari",
+        "Phone_No.": 9501584417,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 7,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 86,
+            "Physics": 14,
+            "Chemistry": 16
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSDS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Data Science)",
+        "RatingOfCourses": 3.2
+    },
+    {
+        "Student_Names": "Rohan Srivastav",
+        "Phone_No.": 9366923320,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 6,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 41,
+            "Physics": 45,
+            "Chemistry": 16
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "FPT",
+        "ListofCourses": "B.E/B.Tech in Food Processing and Technology",
+        "RatingOfCourses": 4.4
+    },
+    {
+        "Student_Names": "Kabir Verma",
+        "Phone_No.": 9442858400,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 10,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 53,
+            "Physics": 91,
+            "Chemistry": 21
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSBS",
+        "ListofCourses": "B.E/B.Tech in Computer Science and Business System (CSBS)",
+        "RatingOfCourses": 3.0
+    },
+    {
+        "Student_Names": "Vivaan Tiwari",
+        "Phone_No.": 9936557962,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 5,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 15,
+            "Physics": 31,
+            "Chemistry": 66
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSIOT",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (IOT)",
+        "RatingOfCourses": 3.1
+    },
+    {
+        "Student_Names": "Sanya Singh",
+        "Phone_No.": 9995987363,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 6,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 78,
+            "Physics": 20,
+            "Chemistry": 39
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSDS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Data Science)",
+        "RatingOfCourses": 4.3
+    },
+    {
+        "Student_Names": "Aarav Patel",
+        "Phone_No.": 9087949359,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 2,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 51,
+            "Physics": 35,
+            "Chemistry": 86
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BSP",
+        "ListofCourses": "B.Sc in Physics",
+        "RatingOfCourses": 3.8
+    },
+    {
+        "Student_Names": "Sanya Yadav",
+        "Phone_No.": 9554683303,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 6,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 90,
+            "Physics": 35,
+            "Chemistry": 90
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: CSBS",
+        "CourseCode": "CSBS",
+        "ListofCourses": "B.E/B.Tech in Computer Science and Business System (CSBS)",
+        "RatingOfCourses": 4.9
+    },
+    {
+        "Student_Names": "Aarav Yadav",
+        "Phone_No.": 9181858312,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 5,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 97,
+            "Physics": 68,
+            "Chemistry": 19
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSDS",
+        "CourseCode": "CSDS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Data Science)",
+        "RatingOfCourses": 3.9
+    },
+    {
+        "Student_Names": "Neha Yadav",
+        "Phone_No.": 9726626148,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 7,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 38,
+            "Physics": 63,
+            "Chemistry": 43
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "EEE",
+        "ListofCourses": "B.E/B.Tech in Electrical and Electronics Engineering",
+        "RatingOfCourses": 4.2
+    },
+    {
+        "Student_Names": "Priya Sharma",
+        "Phone_No.": 9740062009,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 1,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 48,
+            "Physics": 55,
+            "Chemistry": 36
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSAI",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (AI)",
+        "RatingOfCourses": 2.1
+    },
+    {
+        "Student_Names": "Aditya Sharma",
+        "Phone_No.": 9545777306,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 8,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 75,
+            "Physics": 84,
+            "Chemistry": 49
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: EEE",
+        "CourseCode": "EEE",
+        "ListofCourses": "B.E/B.Tech in Electrical and Electronics Engineering",
+        "RatingOfCourses": 4.6
+    },
+    {
+        "Student_Names": "Rohan Sharma",
+        "Phone_No.": 9505950811,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 6,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 73,
+            "Physics": 92,
+            "Chemistry": 35
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSAI",
+        "CourseCode": "CSAI",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (AI)",
+        "RatingOfCourses": 2.2
+    },
+    {
+        "Student_Names": "Kabir Patel",
+        "Phone_No.": 9315066029,
+        "Month": "April",
+        "Gender": "Female",
+        "Study_Hours": 8,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 29,
+            "Physics": 67,
+            "Chemistry": 27
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSE",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering",
+        "RatingOfCourses": 4.3
+    },
+    {
+        "Student_Names": "Aarav Pandey",
+        "Phone_No.": 9062166088,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 7,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 63,
+            "Physics": 90,
+            "Chemistry": 53
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSECS",
+        "CourseCode": "CSECS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Cyber Security)",
+        "RatingOfCourses": 3.2
+    },
+    {
+        "Student_Names": "Priya Pandey",
+        "Phone_No.": 9640078066,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 4,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 40,
+            "Physics": 20,
+            "Chemistry": 78
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSBS",
+        "ListofCourses": "B.E/B.Tech in Computer Science and Business System (CSBS)",
+        "RatingOfCourses": 4.5
+    },
+    {
+        "Student_Names": "Sanya Pandey",
+        "Phone_No.": 9510035677,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 85,
+            "Physics": 18,
+            "Chemistry": 44
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "PE",
+        "ListofCourses": "B.E/B.Tech in Petroleum Engineering",
+        "RatingOfCourses": 3.9
+    },
+    {
+        "Student_Names": "Aarav Verma",
+        "Phone_No.": 9708119769,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 8,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 52,
+            "Physics": 39,
+            "Chemistry": 30
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSDS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Data Science)",
+        "RatingOfCourses": 4.1
+    },
+    {
+        "Student_Names": "Vivaan Verma",
+        "Phone_No.": 9684945961,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 5,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 32,
+            "Physics": 82,
+            "Chemistry": 89
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSDS",
+        "CourseCode": "CSDS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Data Science)",
+        "RatingOfCourses": 4.3
+    },
+    {
+        "Student_Names": "Aditya Yadav",
+        "Phone_No.": 9861256778,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 48,
+            "Physics": 11,
+            "Chemistry": 83
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSE",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering",
+        "RatingOfCourses": 4.3
+    },
+    {
+        "Student_Names": "Priya Yadav",
+        "Phone_No.": 9667703130,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 9,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 55,
+            "Physics": 28,
+            "Chemistry": 20
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "EEE",
+        "ListofCourses": "B.E/B.Tech in Electrical and Electronics Engineering",
+        "RatingOfCourses": 3.5
+    },
+    {
+        "Student_Names": "Ishita Verma",
+        "Phone_No.": 9426205787,
+        "Month": "February",
+        "Gender": "Male",
+        "Study_Hours": 7,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 67,
+            "Physics": 93,
+            "Chemistry": 67
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: CSDS",
+        "CourseCode": "CSDS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Data Science)",
+        "RatingOfCourses": 2.4
+    },
+    {
+        "Student_Names": "Priya Pandey",
+        "Phone_No.": 9372129281,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 4,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 70,
+            "Physics": 38,
+            "Chemistry": 64
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CHE",
+        "ListofCourses": "B.E/B.Tech in Chemical Engineering",
+        "RatingOfCourses": 4.3
+    },
+    {
+        "Student_Names": "Priya Singh",
+        "Phone_No.": 9452000298,
+        "Month": "April",
+        "Gender": "Female",
+        "Study_Hours": 3,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 12,
+            "Physics": 40,
+            "Chemistry": 87
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "ECE",
+        "ListofCourses": "B.E/B.Tech in Electronics and Communication Engineering",
+        "RatingOfCourses": 2.6
+    },
+    {
+        "Student_Names": "Sai Verma",
+        "Phone_No.": 9796776643,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 2,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 71,
+            "Physics": 86,
+            "Chemistry": 93
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: EEE",
+        "CourseCode": "EEE",
+        "ListofCourses": "B.E/B.Tech in Electrical and Electronics Engineering",
+        "RatingOfCourses": 3.1
+    },
+    {
+        "Student_Names": "Kabir Thakur",
+        "Phone_No.": 9244963763,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 2,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 59,
+            "Physics": 33,
+            "Chemistry": 79
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "PE",
+        "ListofCourses": "B.E/B.Tech in Petroleum Engineering",
+        "RatingOfCourses": 4.7
+    },
+    {
+        "Student_Names": "Vivaan Singh",
+        "Phone_No.": 9310940946,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 5,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 23,
+            "Physics": 80,
+            "Chemistry": 89
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: BSP",
+        "CourseCode": "BSP",
+        "ListofCourses": "B.Sc in Physics",
+        "RatingOfCourses": 2.1
+    },
+    {
+        "Student_Names": "Sai Sharma",
+        "Phone_No.": 9729120259,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 4,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 20,
+            "Physics": 60,
+            "Chemistry": 35
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "PE",
+        "ListofCourses": "B.E/B.Tech in Petroleum Engineering",
+        "RatingOfCourses": 3.5
+    },
+    {
+        "Student_Names": "Rohan Singh",
+        "Phone_No.": 9834415229,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 1,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 26,
+            "Physics": 94,
+            "Chemistry": 27
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "FPT",
+        "ListofCourses": "B.E/B.Tech in Food Processing and Technology",
+        "RatingOfCourses": 4.9
+    },
+    {
+        "Student_Names": "Aditya Srivastav",
+        "Phone_No.": 9876910454,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 2,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 90,
+            "Physics": 64,
+            "Chemistry": 94
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: EEE",
+        "CourseCode": "EEE",
+        "ListofCourses": "B.E/B.Tech in Electrical and Electronics Engineering",
+        "RatingOfCourses": 2.2
+    },
+    {
+        "Student_Names": "Ishita Sharma",
+        "Phone_No.": 9053816925,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 6,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 24,
+            "Physics": 48,
+            "Chemistry": 57
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BSC",
+        "ListofCourses": "B.Sc in Chemistry",
+        "RatingOfCourses": 3.9
+    },
+    {
+        "Student_Names": "Ishita Srivastav",
+        "Phone_No.": 9089314722,
+        "Month": "February",
+        "Gender": "Male",
+        "Study_Hours": 7,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 62,
+            "Physics": 93,
+            "Chemistry": 81
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: CSAI",
+        "CourseCode": "CSAI",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (AI)",
+        "RatingOfCourses": 2.8
+    },
+    {
+        "Student_Names": "Aarav Pandey",
+        "Phone_No.": 9080613221,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 7,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 46,
+            "Physics": 43,
+            "Chemistry": 98
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: AEE",
+        "CourseCode": "AEE",
+        "ListofCourses": "B.E/B.Tech in Aeronautical Engineering",
+        "RatingOfCourses": 4.4
+    },
+    {
+        "Student_Names": "Sanya Srivastav",
+        "Phone_No.": 9180721467,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 7,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 12,
+            "Physics": 44,
+            "Chemistry": 24
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BSC",
+        "ListofCourses": "B.Sc in Chemistry",
+        "RatingOfCourses": 2.9
+    },
+    {
+        "Student_Names": "Kabir Tiwari",
+        "Phone_No.": 9158324964,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 7,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 29,
+            "Physics": 31,
+            "Chemistry": 53
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BSP",
+        "ListofCourses": "B.Sc in Physics",
+        "RatingOfCourses": 2.3
+    },
+    {
+        "Student_Names": "Aarav Singh",
+        "Phone_No.": 9838624002,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 1,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 82,
+            "Physics": 76,
+            "Chemistry": 45
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSE",
+        "CourseCode": "CSE",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering",
+        "RatingOfCourses": 4.7
+    },
+    {
+        "Student_Names": "Aarav Thakur",
+        "Phone_No.": 9121578217,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 3,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 59,
+            "Physics": 99,
+            "Chemistry": 10
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "PE",
+        "ListofCourses": "B.E/B.Tech in Petroleum Engineering",
+        "RatingOfCourses": 2.6
+    },
+    {
+        "Student_Names": "Aarav Sharma",
+        "Phone_No.": 9829212022,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 75,
+            "Physics": 68,
+            "Chemistry": 62
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: BSC",
+        "CourseCode": "BSC",
+        "ListofCourses": "B.Sc in Chemistry",
+        "RatingOfCourses": 2.7
+    },
+    {
+        "Student_Names": "Vivaan Srivastav",
+        "Phone_No.": 9265820822,
+        "Month": "April",
+        "Gender": "Female",
+        "Study_Hours": 2,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 73,
+            "Physics": 34,
+            "Chemistry": 67
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "AEE",
+        "ListofCourses": "B.E/B.Tech in Aeronautical Engineering",
+        "RatingOfCourses": 3.7
+    },
+    {
+        "Student_Names": "Rohan Tiwari",
+        "Phone_No.": 9952083584,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 4,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 81,
+            "Physics": 21,
+            "Chemistry": 26
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSDS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Data Science)",
+        "RatingOfCourses": 4.9
+    },
+    {
+        "Student_Names": "Ishita Chauhan",
+        "Phone_No.": 9664365171,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 8,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 86,
+            "Physics": 12,
+            "Chemistry": 57
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "PE",
+        "ListofCourses": "B.E/B.Tech in Petroleum Engineering",
+        "RatingOfCourses": 3.8
+    },
+    {
+        "Student_Names": "Sanya Yadav",
+        "Phone_No.": 9750885742,
+        "Month": "February",
+        "Gender": "Male",
+        "Study_Hours": 8,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 80,
+            "Physics": 15,
+            "Chemistry": 69
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSECS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Cyber Security)",
+        "RatingOfCourses": 2.6
+    },
+    {
+        "Student_Names": "Ishita Pandey",
+        "Phone_No.": 9901826244,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 6,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 56,
+            "Physics": 33,
+            "Chemistry": 21
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BSC",
+        "ListofCourses": "B.Sc in Chemistry",
+        "RatingOfCourses": 2.4
+    },
+    {
+        "Student_Names": "Neha Yadav",
+        "Phone_No.": 9151060056,
+        "Month": "April",
+        "Gender": "Female",
+        "Study_Hours": 5,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 19,
+            "Physics": 70,
+            "Chemistry": 67
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSDS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Data Science)",
+        "RatingOfCourses": 2.8
+    },
+    {
+        "Student_Names": "Kabir Yadav",
+        "Phone_No.": 9050923388,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 3,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 25,
+            "Physics": 51,
+            "Chemistry": 92
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSECS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Cyber Security)",
+        "RatingOfCourses": 2.9
+    },
+    {
+        "Student_Names": "Aditya Yadav",
+        "Phone_No.": 9440898195,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 8,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 31,
+            "Physics": 27,
+            "Chemistry": 35
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BSP",
+        "ListofCourses": "B.Sc in Physics",
+        "RatingOfCourses": 4.4
+    },
+    {
+        "Student_Names": "Kabir Chauhan",
+        "Phone_No.": 9782359375,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 7,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 24,
+            "Physics": 76,
+            "Chemistry": 95
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: BES",
+        "CourseCode": "BES",
+        "ListofCourses": "B.Sc in Environmental Science",
+        "RatingOfCourses": 3.2
+    },
+    {
+        "Student_Names": "Ishita Thakur",
+        "Phone_No.": 9567350803,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 2,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 61,
+            "Physics": 67,
+            "Chemistry": 72
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: PE",
+        "CourseCode": "PE",
+        "ListofCourses": "B.E/B.Tech in Petroleum Engineering",
+        "RatingOfCourses": 4.1
+    },
+    {
+        "Student_Names": "Aditya Pandey",
+        "Phone_No.": 9260207504,
+        "Month": "April",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 74,
+            "Physics": 76,
+            "Chemistry": 11
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSE",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering",
+        "RatingOfCourses": 4.3
+    },
+    {
+        "Student_Names": "Aditya Pandey",
+        "Phone_No.": 9864550575,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 32,
+            "Physics": 36,
+            "Chemistry": 85
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "ME",
+        "ListofCourses": "B.E/B.Tech in Mechanical Engineering",
+        "RatingOfCourses": 4.2
+    },
+    {
+        "Student_Names": "Priya Tiwari",
+        "Phone_No.": 9951230191,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 1,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 49,
+            "Physics": 74,
+            "Chemistry": 51
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSE",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering",
+        "RatingOfCourses": 5.0
+    },
+    {
+        "Student_Names": "Aditya Patel",
+        "Phone_No.": 9913464209,
+        "Month": "February",
+        "Gender": "Male",
+        "Study_Hours": 9,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 49,
+            "Physics": 53,
+            "Chemistry": 42
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSDS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Data Science)",
+        "RatingOfCourses": 4.2
+    },
+    {
+        "Student_Names": "Aditya Srivastav",
+        "Phone_No.": 9883354769,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 5,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 88,
+            "Physics": 62,
+            "Chemistry": 26
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BSP",
+        "ListofCourses": "B.Sc in Physics",
+        "RatingOfCourses": 2.9
+    },
+    {
+        "Student_Names": "Ishita Sharma",
+        "Phone_No.": 9484702472,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 10,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 24,
+            "Physics": 86,
+            "Chemistry": 50
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "AEE",
+        "ListofCourses": "B.E/B.Tech in Aeronautical Engineering",
+        "RatingOfCourses": 2.6
+    },
+    {
+        "Student_Names": "Aditya Sharma",
+        "Phone_No.": 9416566230,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 1,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 94,
+            "Physics": 50,
+            "Chemistry": 38
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: BSC",
+        "CourseCode": "BSC",
+        "ListofCourses": "B.Sc in Chemistry",
+        "RatingOfCourses": 2.4
+    },
+    {
+        "Student_Names": "Sanya Singh",
+        "Phone_No.": 9652312749,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 1,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 93,
+            "Physics": 74,
+            "Chemistry": 85
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: CSE",
+        "CourseCode": "CSE",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering",
+        "RatingOfCourses": 4.9
+    },
+    {
+        "Student_Names": "Aarav Patel",
+        "Phone_No.": 9123292742,
+        "Month": "February",
+        "Gender": "Male",
+        "Study_Hours": 1,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 53,
+            "Physics": 91,
+            "Chemistry": 83
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: AEE",
+        "CourseCode": "AEE",
+        "ListofCourses": "B.E/B.Tech in Aeronautical Engineering",
+        "RatingOfCourses": 3.2
+    },
+    {
+        "Student_Names": "Neha Srivastav",
+        "Phone_No.": 9919344825,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 2,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 91,
+            "Physics": 69,
+            "Chemistry": 27
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CHE",
+        "CourseCode": "CHE",
+        "ListofCourses": "B.E/B.Tech in Chemical Engineering",
+        "RatingOfCourses": 3.2
+    },
+    {
+        "Student_Names": "Sanya Patel",
+        "Phone_No.": 9828377685,
+        "Month": "April",
+        "Gender": "Female",
+        "Study_Hours": 5,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 100,
+            "Physics": 85,
+            "Chemistry": 36
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: CSAI",
+        "CourseCode": "CSAI",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (AI)",
+        "RatingOfCourses": 2.2
+    },
+    {
+        "Student_Names": "Aarav Verma",
+        "Phone_No.": 9906176012,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 9,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 54,
+            "Physics": 31,
+            "Chemistry": 75
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSR",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Robotics)",
+        "RatingOfCourses": 4.5
+    },
+    {
+        "Student_Names": "Kabir Pandey",
+        "Phone_No.": 9669427722,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 8,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 27,
+            "Physics": 61,
+            "Chemistry": 13
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSE",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering",
+        "RatingOfCourses": 3.8
+    },
+    {
+        "Student_Names": "Vivaan Tiwari",
+        "Phone_No.": 9363973216,
+        "Month": "February",
+        "Gender": "Male",
+        "Study_Hours": 10,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 47,
+            "Physics": 57,
+            "Chemistry": 66
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "ME",
+        "ListofCourses": "B.E/B.Tech in Mechanical Engineering",
+        "RatingOfCourses": 3.8
+    },
+    {
+        "Student_Names": "Aditya Pandey",
+        "Phone_No.": 9355437704,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 2,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 28,
+            "Physics": 25,
+            "Chemistry": 18
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSAI",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (AI)",
+        "RatingOfCourses": 3.4
+    },
+    {
+        "Student_Names": "Ishita Singh",
+        "Phone_No.": 9525670902,
+        "Month": "April",
+        "Gender": "Female",
+        "Study_Hours": 7,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 43,
+            "Physics": 33,
+            "Chemistry": 40
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "EEE",
+        "ListofCourses": "B.E/B.Tech in Electrical and Electronics Engineering",
+        "RatingOfCourses": 3.7
+    },
+    {
+        "Student_Names": "Ishita Thakur",
+        "Phone_No.": 9890266234,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 48,
+            "Physics": 76,
+            "Chemistry": 75
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: ECE",
+        "CourseCode": "ECE",
+        "ListofCourses": "B.E/B.Tech in Electronics and Communication Engineering",
+        "RatingOfCourses": 4.1
+    },
+    {
+        "Student_Names": "Rohan Sharma",
+        "Phone_No.": 9827339426,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 6,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 70,
+            "Physics": 51,
+            "Chemistry": 27
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSECS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Cyber Security)",
+        "RatingOfCourses": 4.0
+    },
+    {
+        "Student_Names": "Sanya Sharma",
+        "Phone_No.": 9102035934,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 3,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 37,
+            "Physics": 96,
+            "Chemistry": 65
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSDS",
+        "CourseCode": "CSDS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Data Science)",
+        "RatingOfCourses": 3.9
+    },
+    {
+        "Student_Names": "Aditya Thakur",
+        "Phone_No.": 9418507588,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 67,
+            "Physics": 31,
+            "Chemistry": 94
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSDS",
+        "CourseCode": "CSDS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Data Science)",
+        "RatingOfCourses": 2.9
+    },
+    {
+        "Student_Names": "Neha Pandey",
+        "Phone_No.": 9540578915,
+        "Month": "April",
+        "Gender": "Female",
+        "Study_Hours": 9,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 24,
+            "Physics": 59,
+            "Chemistry": 71
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "FPT",
+        "ListofCourses": "B.E/B.Tech in Food Processing and Technology",
+        "RatingOfCourses": 2.8
+    },
+    {
+        "Student_Names": "Sai Sharma",
+        "Phone_No.": 9941947661,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 2,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 53,
+            "Physics": 54,
+            "Chemistry": 26
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "ME",
+        "ListofCourses": "B.E/B.Tech in Mechanical Engineering",
+        "RatingOfCourses": 5.0
+    },
+    {
+        "Student_Names": "Rohan Thakur",
+        "Phone_No.": 9179927986,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 9,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 81,
+            "Physics": 25,
+            "Chemistry": 48
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "AEE",
+        "ListofCourses": "B.E/B.Tech in Aeronautical Engineering",
+        "RatingOfCourses": 2.1
+    },
+    {
+        "Student_Names": "Kabir Pandey",
+        "Phone_No.": 9122335354,
+        "Month": "February",
+        "Gender": "Male",
+        "Study_Hours": 1,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 32,
+            "Physics": 100,
+            "Chemistry": 76
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: BSP",
+        "CourseCode": "BSP",
+        "ListofCourses": "B.Sc in Physics",
+        "RatingOfCourses": 3.3
+    },
+    {
+        "Student_Names": "Kabir Patel",
+        "Phone_No.": 9591672322,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 3,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 42,
+            "Physics": 19,
+            "Chemistry": 12
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "AEE",
+        "ListofCourses": "B.E/B.Tech in Aeronautical Engineering",
+        "RatingOfCourses": 3.5
+    },
+    {
+        "Student_Names": "Rohan Chauhan",
+        "Phone_No.": 9395694152,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 4,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 32,
+            "Physics": 61,
+            "Chemistry": 46
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSECS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Cyber Security)",
+        "RatingOfCourses": 3.1
+    },
+    {
+        "Student_Names": "Ishita Thakur",
+        "Phone_No.": 9967729341,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 4,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 77,
+            "Physics": 66,
+            "Chemistry": 25
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSECS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Cyber Security)",
+        "RatingOfCourses": 2.7
+    },
+    {
+        "Student_Names": "Neha Tiwari",
+        "Phone_No.": 9225119485,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 4,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 61,
+            "Physics": 71,
+            "Chemistry": 51
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSAI",
+        "CourseCode": "CSAI",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (AI)",
+        "RatingOfCourses": 3.8
+    },
+    {
+        "Student_Names": "Ishita Verma",
+        "Phone_No.": 9149199315,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 2,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 17,
+            "Physics": 23,
+            "Chemistry": 75
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSR",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Robotics)",
+        "RatingOfCourses": 3.1
+    },
+    {
+        "Student_Names": "Priya Srivastav",
+        "Phone_No.": 9228833904,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 5,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 36,
+            "Physics": 36,
+            "Chemistry": 18
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSBS",
+        "ListofCourses": "B.E/B.Tech in Computer Science and Business System (CSBS)",
+        "RatingOfCourses": 2.7
+    },
+    {
+        "Student_Names": "Vivaan Sharma",
+        "Phone_No.": 9088862222,
+        "Month": "April",
+        "Gender": "Female",
+        "Study_Hours": 2,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 88,
+            "Physics": 11,
+            "Chemistry": 10
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "ME",
+        "ListofCourses": "B.E/B.Tech in Mechanical Engineering",
+        "RatingOfCourses": 2.1
+    },
+    {
+        "Student_Names": "Sanya Sharma",
+        "Phone_No.": 9286581408,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 32,
+            "Physics": 76,
+            "Chemistry": 89
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSR",
+        "CourseCode": "CSR",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Robotics)",
+        "RatingOfCourses": 2.1
+    },
+    {
+        "Student_Names": "Kabir Thakur",
+        "Phone_No.": 9399612393,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 6,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 78,
+            "Physics": 43,
+            "Chemistry": 94
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: CHE",
+        "CourseCode": "CHE",
+        "ListofCourses": "B.E/B.Tech in Chemical Engineering",
+        "RatingOfCourses": 2.4
+    },
+    {
+        "Student_Names": "Rohan Chauhan",
+        "Phone_No.": 9211346324,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 2,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 27,
+            "Physics": 90,
+            "Chemistry": 92
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: ECE",
+        "CourseCode": "ECE",
+        "ListofCourses": "B.E/B.Tech in Electronics and Communication Engineering",
+        "RatingOfCourses": 2.3
+    },
+    {
+        "Student_Names": "Sanya Sharma",
+        "Phone_No.": 9993168285,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 3,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 88,
+            "Physics": 55,
+            "Chemistry": 55
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: ME",
+        "CourseCode": "ME",
+        "ListofCourses": "B.E/B.Tech in Mechanical Engineering",
+        "RatingOfCourses": 4.4
+    },
+    {
+        "Student_Names": "Vivaan Patel",
+        "Phone_No.": 9153224748,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 2,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 45,
+            "Physics": 81,
+            "Chemistry": 97
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: CSBS",
+        "CourseCode": "CSBS",
+        "ListofCourses": "B.E/B.Tech in Computer Science and Business System (CSBS)",
+        "RatingOfCourses": 4.1
+    },
+    {
+        "Student_Names": "Kabir Sharma",
+        "Phone_No.": 9357559144,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 9,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 19,
+            "Physics": 82,
+            "Chemistry": 37
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSDS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Data Science)",
+        "RatingOfCourses": 4.4
+    },
+    {
+        "Student_Names": "Aditya Verma",
+        "Phone_No.": 9491833758,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 8,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 100,
+            "Physics": 22,
+            "Chemistry": 53
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSIOT",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (IOT)",
+        "RatingOfCourses": 3.6
+    },
+    {
+        "Student_Names": "Rohan Singh",
+        "Phone_No.": 9173946209,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 5,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 99,
+            "Physics": 93,
+            "Chemistry": 33
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: ECE",
+        "CourseCode": "ECE",
+        "ListofCourses": "B.E/B.Tech in Electronics and Communication Engineering",
+        "RatingOfCourses": 4.0
+    },
+    {
+        "Student_Names": "Aditya Pandey",
+        "Phone_No.": 9834006114,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 1,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 45,
+            "Physics": 44,
+            "Chemistry": 55
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CE",
+        "ListofCourses": "B.E/B.Tech in Civil Engineering",
+        "RatingOfCourses": 2.2
+    },
+    {
+        "Student_Names": "Ishita Srivastav",
+        "Phone_No.": 9379541362,
+        "Month": "April",
+        "Gender": "Female",
+        "Study_Hours": 8,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 89,
+            "Physics": 69,
+            "Chemistry": 14
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BT",
+        "ListofCourses": "B.E/B.Tech in Biotechnology",
+        "RatingOfCourses": 4.0
+    },
+    {
+        "Student_Names": "Aarav Singh",
+        "Phone_No.": 9680959517,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 1,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 14,
+            "Physics": 87,
+            "Chemistry": 91
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: PE",
+        "CourseCode": "PE",
+        "ListofCourses": "B.E/B.Tech in Petroleum Engineering",
+        "RatingOfCourses": 4.8
+    },
+    {
+        "Student_Names": "Vivaan Sharma",
+        "Phone_No.": 9586683486,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 5,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 88,
+            "Physics": 83,
+            "Chemistry": 15
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: BES",
+        "CourseCode": "BES",
+        "ListofCourses": "B.Sc in Environmental Science",
+        "RatingOfCourses": 3.8
+    },
+    {
+        "Student_Names": "Aditya Pandey",
+        "Phone_No.": 9262639205,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 36,
+            "Physics": 88,
+            "Chemistry": 14
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BSP",
+        "ListofCourses": "B.Sc in Physics",
+        "RatingOfCourses": 2.4
+    },
+    {
+        "Student_Names": "Neha Yadav",
+        "Phone_No.": 9320542417,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 3,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 34,
+            "Physics": 79,
+            "Chemistry": 25
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSECS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Cyber Security)",
+        "RatingOfCourses": 2.6
+    },
+    {
+        "Student_Names": "Ishita Srivastav",
+        "Phone_No.": 9878544973,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 1,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 41,
+            "Physics": 87,
+            "Chemistry": 52
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: BT",
+        "CourseCode": "BT",
+        "ListofCourses": "B.E/B.Tech in Biotechnology",
+        "RatingOfCourses": 3.6
+    },
+    {
+        "Student_Names": "Vivaan Tiwari",
+        "Phone_No.": 9219547805,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 2,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 25,
+            "Physics": 89,
+            "Chemistry": 81
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: FPT",
+        "CourseCode": "FPT",
+        "ListofCourses": "B.E/B.Tech in Food Processing and Technology",
+        "RatingOfCourses": 4.8
+    },
+    {
+        "Student_Names": "Ishita Tiwari",
+        "Phone_No.": 9476500476,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 70,
+            "Physics": 99,
+            "Chemistry": 38
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSR",
+        "CourseCode": "CSR",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Robotics)",
+        "RatingOfCourses": 3.4
+    },
+    {
+        "Student_Names": "Kabir Thakur",
+        "Phone_No.": 9705592627,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 8,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 17,
+            "Physics": 23,
+            "Chemistry": 62
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CE",
+        "ListofCourses": "B.E/B.Tech in Civil Engineering",
+        "RatingOfCourses": 4.5
+    },
+    {
+        "Student_Names": "Vivaan Pandey",
+        "Phone_No.": 9771552001,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 1,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 55,
+            "Physics": 47,
+            "Chemistry": 48
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "EEE",
+        "ListofCourses": "B.E/B.Tech in Electrical and Electronics Engineering",
+        "RatingOfCourses": 2.6
+    },
+    {
+        "Student_Names": "Sai Chauhan",
+        "Phone_No.": 9818308707,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 6,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 87,
+            "Physics": 58,
+            "Chemistry": 93
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: BES",
+        "CourseCode": "BES",
+        "ListofCourses": "B.Sc in Environmental Science",
+        "RatingOfCourses": 4.0
+    },
+    {
+        "Student_Names": "Aditya Verma",
+        "Phone_No.": 9096534159,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 1,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 81,
+            "Physics": 93,
+            "Chemistry": 56
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: FPT",
+        "CourseCode": "FPT",
+        "ListofCourses": "B.E/B.Tech in Food Processing and Technology",
+        "RatingOfCourses": 2.5
+    },
+    {
+        "Student_Names": "Kabir Verma",
+        "Phone_No.": 9725001349,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 5,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 86,
+            "Physics": 33,
+            "Chemistry": 47
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "EEE",
+        "ListofCourses": "B.E/B.Tech in Electrical and Electronics Engineering",
+        "RatingOfCourses": 2.0
+    },
+    {
+        "Student_Names": "Priya Singh",
+        "Phone_No.": 9699044557,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 8,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 17,
+            "Physics": 83,
+            "Chemistry": 75
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSIOT",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (IOT)",
+        "RatingOfCourses": 4.8
+    },
+    {
+        "Student_Names": "Ishita Sharma",
+        "Phone_No.": 9190203124,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 5,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 12,
+            "Physics": 60,
+            "Chemistry": 42
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CE",
+        "ListofCourses": "B.E/B.Tech in Civil Engineering",
+        "RatingOfCourses": 3.3
+    },
+    {
+        "Student_Names": "Vivaan Thakur",
+        "Phone_No.": 9396504542,
+        "Month": "April",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 41,
+            "Physics": 27,
+            "Chemistry": 43
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CE",
+        "ListofCourses": "B.E/B.Tech in Civil Engineering",
+        "RatingOfCourses": 3.0
+    },
+    {
+        "Student_Names": "Aditya Singh",
+        "Phone_No.": 9926275783,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 7,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 17,
+            "Physics": 91,
+            "Chemistry": 50
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSBS",
+        "ListofCourses": "B.E/B.Tech in Computer Science and Business System (CSBS)",
+        "RatingOfCourses": 4.6
+    },
+    {
+        "Student_Names": "Priya Pandey",
+        "Phone_No.": 9400677234,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 2,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 83,
+            "Physics": 37,
+            "Chemistry": 53
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "AEE",
+        "ListofCourses": "B.E/B.Tech in Aeronautical Engineering",
+        "RatingOfCourses": 2.5
+    },
+    {
+        "Student_Names": "Aditya Singh",
+        "Phone_No.": 9902662518,
+        "Month": "February",
+        "Gender": "Male",
+        "Study_Hours": 4,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 69,
+            "Physics": 19,
+            "Chemistry": 95
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: EEE",
+        "CourseCode": "EEE",
+        "ListofCourses": "B.E/B.Tech in Electrical and Electronics Engineering",
+        "RatingOfCourses": 3.8
+    },
+    {
+        "Student_Names": "Aarav Patel",
+        "Phone_No.": 9357785144,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 5,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 20,
+            "Physics": 86,
+            "Chemistry": 31
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSAI",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (AI)",
+        "RatingOfCourses": 4.4
+    },
+    {
+        "Student_Names": "Aarav Pandey",
+        "Phone_No.": 9205957394,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 5,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 41,
+            "Physics": 41,
+            "Chemistry": 29
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSE",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering",
+        "RatingOfCourses": 4.8
+    },
+    {
+        "Student_Names": "Vivaan Singh",
+        "Phone_No.": 9090056199,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 10,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 62,
+            "Physics": 98,
+            "Chemistry": 20
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSBS",
+        "CourseCode": "CSBS",
+        "ListofCourses": "B.E/B.Tech in Computer Science and Business System (CSBS)",
+        "RatingOfCourses": 2.7
+    },
+    {
+        "Student_Names": "Sai Patel",
+        "Phone_No.": 9353268676,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 9,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 44,
+            "Physics": 90,
+            "Chemistry": 95
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: PE",
+        "CourseCode": "PE",
+        "ListofCourses": "B.E/B.Tech in Petroleum Engineering",
+        "RatingOfCourses": 3.6
+    },
+    {
+        "Student_Names": "Aditya Tiwari",
+        "Phone_No.": 9174554952,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 15,
+            "Physics": 28,
+            "Chemistry": 41
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSECS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Cyber Security)",
+        "RatingOfCourses": 2.3
+    },
+    {
+        "Student_Names": "Neha Thakur",
+        "Phone_No.": 9649793122,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 5,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 73,
+            "Physics": 15,
+            "Chemistry": 35
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "AEE",
+        "ListofCourses": "B.E/B.Tech in Aeronautical Engineering",
+        "RatingOfCourses": 3.1
+    },
+    {
+        "Student_Names": "Ishita Tiwari",
+        "Phone_No.": 9985649151,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 4,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 19,
+            "Physics": 97,
+            "Chemistry": 41
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSIOT",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (IOT)",
+        "RatingOfCourses": 3.3
+    },
+    {
+        "Student_Names": "Vivaan Pandey",
+        "Phone_No.": 9679990647,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 98,
+            "Physics": 50,
+            "Chemistry": 66
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: FPT",
+        "CourseCode": "FPT",
+        "ListofCourses": "B.E/B.Tech in Food Processing and Technology",
+        "RatingOfCourses": 2.1
+    },
+    {
+        "Student_Names": "Sai Singh",
+        "Phone_No.": 9017747592,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 3,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 60,
+            "Physics": 22,
+            "Chemistry": 39
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "ME",
+        "ListofCourses": "B.E/B.Tech in Mechanical Engineering",
+        "RatingOfCourses": 3.9
+    },
+    {
+        "Student_Names": "Sanya Pandey",
+        "Phone_No.": 9240823837,
+        "Month": "February",
+        "Gender": "Male",
+        "Study_Hours": 7,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 33,
+            "Physics": 14,
+            "Chemistry": 58
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BT",
+        "ListofCourses": "B.E/B.Tech in Biotechnology",
+        "RatingOfCourses": 4.2
+    },
+    {
+        "Student_Names": "Sai Yadav",
+        "Phone_No.": 9335625564,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 10,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 95,
+            "Physics": 68,
+            "Chemistry": 37
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: AEE",
+        "CourseCode": "AEE",
+        "ListofCourses": "B.E/B.Tech in Aeronautical Engineering",
+        "RatingOfCourses": 3.1
+    },
+    {
+        "Student_Names": "Rohan Singh",
+        "Phone_No.": 9044968595,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 3,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 70,
+            "Physics": 60,
+            "Chemistry": 93
+        },
+        "Grade": "B+",
+        "Comment": "Good Pursuance",
+        "Course_Recommendation": "Top courses: EEE",
+        "CourseCode": "EEE",
+        "ListofCourses": "B.E/B.Tech in Electrical and Electronics Engineering",
+        "RatingOfCourses": 3.0
+    },
+    {
+        "Student_Names": "Ishita Yadav",
+        "Phone_No.": 9623852096,
+        "Month": "May",
+        "Gender": "Female",
+        "Study_Hours": 3,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 34,
+            "Physics": 37,
+            "Chemistry": 24
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSAI",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (AI)",
+        "RatingOfCourses": 3.8
+    },
+    {
+        "Student_Names": "Aditya Thakur",
+        "Phone_No.": 9841521807,
+        "Month": "January",
+        "Gender": "Male",
+        "Study_Hours": 6,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 94,
+            "Physics": 17,
+            "Chemistry": 18
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "AEE",
+        "ListofCourses": "B.E/B.Tech in Aeronautical Engineering",
+        "RatingOfCourses": 4.0
+    },
+    {
+        "Student_Names": "Priya Tiwari",
+        "Phone_No.": 9817775379,
+        "Month": "February",
+        "Gender": "Female",
+        "Study_Hours": 2,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 79,
+            "Physics": 15,
+            "Chemistry": 46
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CE",
+        "ListofCourses": "B.E/B.Tech in Civil Engineering",
+        "RatingOfCourses": 2.0
+    },
+    {
+        "Student_Names": "Sanya Verma",
+        "Phone_No.": 9256334550,
+        "Month": "March",
+        "Gender": "Female",
+        "Study_Hours": 9,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 16,
+            "Physics": 39,
+            "Chemistry": 64
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BSC",
+        "ListofCourses": "B.Sc in Chemistry",
+        "RatingOfCourses": 4.0
+    },
+    {
+        "Student_Names": "Sai Srivastav",
+        "Phone_No.": 9082483424,
+        "Month": "April",
+        "Gender": "Female",
+        "Study_Hours": 5,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 42,
+            "Physics": 13,
+            "Chemistry": 38
+        },
+        "Grade": "F",
+        "Comment": "Failed",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CSE",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering",
+        "RatingOfCourses": 4.7
+    },
+    {
+        "Student_Names": "Aditya Chauhan",
+        "Phone_No.": 9618855006,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 2,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 47,
+            "Physics": 98,
+            "Chemistry": 13
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "ECE",
+        "ListofCourses": "B.E/B.Tech in Electronics and Communication Engineering",
+        "RatingOfCourses": 2.9
+    },
+    {
+        "Student_Names": "Sai Yadav",
+        "Phone_No.": 9377073304,
+        "Month": "January",
+        "Gender": "Female",
+        "Study_Hours": 6,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 86,
+            "Physics": 47,
+            "Chemistry": 48
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: ME",
+        "CourseCode": "ME",
+        "ListofCourses": "B.E/B.Tech in Mechanical Engineering",
+        "RatingOfCourses": 2.3
+    },
+    {
+        "Student_Names": "Kabir Yadav",
+        "Phone_No.": 9677531692,
+        "Month": "February",
+        "Gender": "Male",
+        "Study_Hours": 8,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 32,
+            "Physics": 97,
+            "Chemistry": 58
+        },
+        "Grade": "B",
+        "Comment": "Average Performance",
+        "Course_Recommendation": "Top courses: CSECS",
+        "CourseCode": "CSECS",
+        "ListofCourses": "B.E/B.Tech in Computer Science & Engineering (Cyber Security)",
+        "RatingOfCourses": 4.4
+    },
+    {
+        "Student_Names": "Aarav Chauhan",
+        "Phone_No.": 9198061102,
+        "Month": "March",
+        "Gender": "Male",
+        "Study_Hours": 2,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 65,
+            "Physics": 39,
+            "Chemistry": 66
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "BT",
+        "ListofCourses": "B.E/B.Tech in Biotechnology",
+        "RatingOfCourses": 3.1
+    },
+    {
+        "Student_Names": "Sanya Chauhan",
+        "Phone_No.": 9757066426,
+        "Month": "April",
+        "Gender": "Male",
+        "Study_Hours": 3,
+        "Part_Time_Job": "No",
+        "Subjects": {
+            "Math": 87,
+            "Physics": 55,
+            "Chemistry": 13
+        },
+        "Grade": "C",
+        "Comment": "Below Average Achievement",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CE",
+        "ListofCourses": "B.E/B.Tech in Civil Engineering",
+        "RatingOfCourses": 2.0
+    },
+    {
+        "Student_Names": "Kabir Chauhan",
+        "Phone_No.": 9597298469,
+        "Month": "May",
+        "Gender": "Male",
+        "Study_Hours": 8,
+        "Part_Time_Job": "Yes",
+        "Subjects": {
+            "Math": 11,
+            "Physics": 85,
+            "Chemistry": 10
+        },
+        "Grade": "D",
+        "Comment": "Poor Pursuance",
+        "Course_Recommendation": "Better luck next time",
+        "CourseCode": "CE",
+        "ListofCourses": "B.E/B.Tech in Civil Engineering",
+        "RatingOfCourses": 2.4
+    }
+]

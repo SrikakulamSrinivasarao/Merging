@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elasticsearch Visualizations</title>
+    <style>
+        .DropDownBox {
+            margin: 20px auto;
+            width: 90%;
+            padding: 15px;
+            background-color:rgb(149, 108, 108);
+            border-radius: 10px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 25px;
+        }
+
+        .filter-label {
+            font-weight: bold;
+            
+            
+        }
+
+        select, button, input {
+            padding: 8px;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+            margin: 5px;
+        }
+
+        button {
+            background-color: #007bff;
+            color: white;
+            cursor: pointer;
+        }
+
+        .table-container {
+            margin-top: 20px;
+            overflow-x: auto;
+            max-height: 400px; /* Added fixed height for scrollbar */
+            overflow-y: auto; /* Added scrollbar */
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f5f5f5;
+        }
+
+        #graphContainer {
+            margin-top: 20px;
+        }
+
+        #graphContent {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Elasticsearch Data Visualization</h1>
+    <div class="DropDownBox">
+        <!-- Existing dropdowns -->
+        <div class="filter-label">Filter Type</div>
+        <select id="filterType">
+            <option value="">Select Filter</option>
+            <option value="gender">Gender</option>
+            <option value="course">Course Recommendation</option>
+            <option value="grade">Grade</option>
+            <option value="study_hours">Study Hours</option>
+        </select>
+    
+        <div class="filter-label">Filter Value</div>
+        <select id="filterValue" disabled>
+            <option value="">Select Value</option>
+        </select>
+    
+        <div class="filter-label">Month</div>
+        <select id="Month">
+            <option value="">Select Month</option>
+            <option value="January">January</option>
+            <option value="February">February</option>
+            <option value="March">March</option>
+            <option value="April">April</option>
+            <option value="May">May</option>
+        </select>
+    
+        <div class="filter-label">Subject</div>
+        <select id="Subjects">
+            <option value="">Select Subject</option>
+            <option value="Math">Math</option>
+            <option value="Physics">Physics</option>
+            <option value="Chemistry">Chemistry</option>
+        </select>
+    
+        <div class="filter-label">X Axis</div>
+        <select id="xAxis">
+            <option value="">Select X Axis</option>
+            <option value="Student_Names">Student Names</option>
+            <option value="Grade">Grade</option>
+            <option value="Gender">Gender</option>
+            <option value="Course_Recommendation">Course Recommendation</option>
+            <option value="Study_Hours">Study Hours</option>
+        </select>
+    
+        <div class="filter-label">Y Axis</div>
+        <select id="yAxis">
+            <option value="">Select Y Axis</option>
+            <option value="Study_Hours">Study Hours</option>
+            <option value="Grade">Grade</option>
+            <option value="Math">Math</option>
+            <option value="Physics">Physics</option>
+            <option value="Chemistry">Chemistry</option>
+        </select>
+    
+        <div class="filter-label">Hue</div>
+        <select id="hue">
+            <option value="">Select Hue</option>
+            <option value="Gender">Gender</option>
+            <option value="Course_Recommendation">Course Recommendation</option>
+            <option value="Grade">Grade</option>
+            <option value="Study_Hours">Study Hours</option>
+        </select>
+    
+        <div class="filter-label">Graph Type</div>
+        <select id="graphType">
+            <option value="">Select Graph Type</option>
+            <option value="bar">Bar Graph</option>
+            <option value="line">Line Graph</option>
+            <option value="scatter">Scatter Plot</option>
+            <option value="pie">Pie Chart</option>
+        </select>
+        <button onclick="updateTable()">Generate Table</button>
+        <button onclick="updateVisualization()">Generate Visualization</button>
+    </div>
+
+    <div class="table-container">
+        <table id="dataTable">
+            <thead></thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <div id="graphContainer">
+        <h2 id="graphTitle">Visualization</h2>
+        <div id="graphContent"></div>
+    </div>
+
+    <script>
+        const filterOptions = {
+            'gender': ['Male', 'Female'],
+            'course': ['Better luck next time', 'Top courses: CSDS', 'Top courses: BSP', 'Top courses: ME', 'Top courses: CSE', 'Top courses: CSR','Top courses: BSC'],
+            'grade': ['A', 'B', 'C', 'D', 'B+', 'F'],
+            'study_hours': ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']
+        };
+
+        document.getElementById('filterType').addEventListener('change', function() {
+            const filterValue = document.getElementById('filterValue');
+            const options = filterOptions[this.value] || [];
+
+            filterValue.innerHTML = '<option value="">Select Value</option>';
+            options.forEach(option => {
+                filterValue.add(new Option(option, option));
+            });
+
+            filterValue.disabled = !this.value;
+        });
+
+        async function updateTable() {
+            const filterType = document.getElementById('filterType').value;
+            const filterValue = document.getElementById('filterValue').value;
+            const month = document.getElementById('Month').value;
+            const subject = document.getElementById('Subjects').value;
+        
+            try {
+                const response = await fetch('/update_table', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ filterType, filterValue, month, subject })
+                });
+
+                const data = await response.json();
+                if (response.ok) {
+                    const table = document.getElementById('dataTable');
+                    table.innerHTML = '';
+
+                    if (data.filteredData.length > 0) {
+                        const headers = Object.keys(data.filteredData[0]);
+                        const thead = table.createTHead();
+                        const headerRow = thead.insertRow();
+                        headers.forEach(header => {
+                            const th = document.createElement('th');
+                            th.textContent = header;
+                            headerRow.appendChild(th);
+                        });
+
+                        const tbody = table.createTBody();
+                        data.filteredData.forEach(row => {
+                            const tr = tbody.insertRow();
+                            headers.forEach(header => {
+                                const td = tr.insertCell();
+                                td.textContent = row[header];
+                            });
+                        });
+                    } else {
+                        table.innerHTML = '<p>No data found.</p>';
+                    }
+                } else {
+                    alert(`Error: ${data.error}`);
+                }
+            } catch (error) {
+                console.error('Error fetching table data:', error);
+                alert(`Error fetching table data: ${error.message}`);
+            }
+        }
+        
+        async function updateVisualization() {
+            const filterType = document.getElementById('filterType').value;
+            const filterValue = document.getElementById('filterValue').value;
+            const month = document.getElementById('Month').value;
+            const subject = document.getElementById('Subjects').value;
+            const xAxis = document.getElementById('xAxis').value;
+            const yAxis = document.getElementById('yAxis').value;
+            const graphType = document.getElementById('graphType').value;
+            const hue = document.getElementById('hue').value;  // Get hue value
+        
+            if (!xAxis || !yAxis || !graphType) {
+                alert('Please select all required fields');
+                return;
+            }
+        
+            try {
+                const response = await fetch('/update-visualization', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ filterType, filterValue, xAxis, yAxis, graphType, month, subject, hue })  // Include hue
+                });
+        
+                const data = await response.json();
+                if (response.ok) {
+                    document.getElementById('graphContent').innerHTML = data.graphHtml;
+                } else {
+                    alert(`Error: ${data.error}`);
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                alert(`Error updating visualization: ${error.message}`);
+            }
+        }
+    </script>
+</body>
+</html>
